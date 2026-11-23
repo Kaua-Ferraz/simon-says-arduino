@@ -1,2 +1,2 @@
 # simon-says-arduino
-Simon Says (Mestre Mandou) e Jogo da Memória no Arduino.
+Simon Says (Mestre Mandou) e Whack-A-Mole (Bata na Toupeira) no Arduino.
